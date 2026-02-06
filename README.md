@@ -2,7 +2,7 @@
 
 Ares Chat es una red de salas de chat P2P a la que se puede acceder desde el navegador mediante un cliente web compatible.
 
-👉 Ares Chat Web: https://shipo.site/ares-chat-web
+👉 Ares Chat Web: http://shipo.site/ares-chat-web
 
 Este proyecto documenta el acceso a Ares Chat desde la web utilizando un cliente P2P moderno que funciona sin instalación ni registro.
 
